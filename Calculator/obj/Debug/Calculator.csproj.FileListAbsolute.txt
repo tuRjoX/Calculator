@@ -1,0 +1,20 @@
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\tdas4\OneDrive\Desktop\Projects\Calculator\obj\Debug\Calculator.pdb
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\bin\Debug\Calculator.exe.config
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\bin\Debug\Calculator.exe
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\bin\Debug\Calculator.pdb
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\obj\Debug\Calculator.Form1.resources
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\obj\Debug\Calculator.exe
+D:\AIUB\6th Semester\Final Term\OBJECT ORIENTED PROGRAMMING 2\Projects\Calculator\obj\Debug\Calculator.pdb
